@@ -1,2 +1,2 @@
 # necode site
-> https://himiyo3in.github.io/WCBCafe/
+> https://himiyo3in.github.io/necode/
